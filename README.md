@@ -13,6 +13,8 @@ Hi there, nice to meet you! I'm a full-stack developer who values crafting innov
 
 <br />
 
+---
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -32,13 +34,10 @@ Hi there, nice to meet you! I'm a full-stack developer who values crafting innov
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
-
+<br />
 <br />
 
 #
-
-<br />
-
 
 ### :chart_with_upwards_trend: Coding stats
 ![](https://github-readme-stats.vercel.app/api?username=wrightchukwuezi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
